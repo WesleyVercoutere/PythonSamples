@@ -1,0 +1,2 @@
+Run all unit tests in a folder, use command
+    py -m unittest

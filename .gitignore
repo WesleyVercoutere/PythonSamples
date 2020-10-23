@@ -1,0 +1,6 @@
+**/venv/
+**/.vscode/
+
+## Ignore PyCharm ###
+.idea
+.vs
