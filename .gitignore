@@ -2,6 +2,7 @@
 **/.vscode/
 **/.vs/
 **/__pycache__/
+**/beeware-venv/
 
 ## Ignore PyCharm ###
 .idea
