@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: togademo
+Formal-Name: Toga Demo
+App-ID: be.weve.togademo
+Version: 0.0.1
+Home-page: https://weve.be/togademo
+Author: Jane Developer
+Author-email: jane@weve.be
+Summary: Demo with the widgets in Toga
